@@ -1,0 +1,14 @@
+{
+  "name": "tfl-street-disruptions",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.9.1",
+    "express": "^4.13.4",
+    "redis": "^2.5.2",
+    "response-time": "^2.3.1"
+  }
+}
